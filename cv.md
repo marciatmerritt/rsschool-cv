@@ -1,94 +1,98 @@
 # Marcia T. Merritt
 
-**Email**: <marciatmerritt@gmail.com>  
+**Email**: [marciatmerritt@gmail.com](mailto:marciatmerritt@gmail.com)  
 **Phone**: 803-569-9683  
-**LinkedIn**: [Marcia Merritt](https://www.linkedin.com/in/marcia-merritt-58662761/)
+**LinkedIn**: [Marcia Merritt](https://www.linkedin.com/in/marcia-merritt-58662761/)  
 
 ---
 
-## Professional Summary
+## 👩🏾‍💻 Professional Summary  
 
-Passionate and detail-oriented software developer with over 10 years of experience in software engineering. Known for strong analytical skills, a problem-solving mindset, and a proven ability to create algorithms and data-processing logic. Adept at quickly adopting new technologies and experienced across the full software development lifecycle, with demonstrated skills in collaborative and independent environments.
-
----
-
-## Technical Skills
-
-- **Platforms**: Duck Creek (Policy, Billing, Insights, UserAdmin), Azure, TFS, .NET
-- **Languages**: XML, XSLT, HTML5, CSS, JavaScript, React, Java, PHP, Python, COBOL
-- **Tools**: Git, SQL Server, Oracle, Azure DevOps
-- **Methodologies**: Agile/SCRUM, Waterfall
-- **APIs**: REST, Spring Boot, Mock, Mockito, Node.js
+Passionate and detail-oriented software developer with over 10 years of experience in the tech industry. Skilled in programming languages such as Java, JavaScript, Jest, TypeScript, HTML, CSS, SQL, and Python. Strong expertise in mainframe and legacy systems, Duck Creek, and modern web development frameworks. Known for strong analytical approach to problem-solving and the ability to quickly learn new technologies. Thrives in both collaborative and independent work environments.
 
 ---
 
-## Work Experience
+## 🛠️ Technical Skills  
 
-### Duck Creek Technologies
+### Languages
 
-**Software Configurator (Remote, April 2019 – December 2022)**  
-Configured and optimized Duck Creek's insurance platform for various clients, aligning solutions with client specifications and best practices.
+Java, JavaScript, XML, XSLT, HTML5, CSS, PHP, Python, COBOL, IMS
 
-- Translated business requirements into custom configuration settings, enhancing platform usability.
-- Improved system performance and scalability through targeted optimization.
-- Served as a subject matter expert, providing mentorship within Agile project teams.
+### Platforms and Tools
 
-### TekSystems (Southeastern Freight Lines, Inc.)
+- **Duck Creek**: Policy, Billing, Insights, UserAdmin, Trace Monitor, AnywhereAPI, Server
+- **Source Control**: Git, Azure DevOps, TFS  
+- **Web and App Development**: React, Node.js, .NET  
+- **Databases**: SQL Server, Oracle, PostgreSQL  
+- **APIs**: REST, Spring Boot, Node.js, Swagger, Postman  
+- **Unit Testing**: Mock, Jest, Mockito  
+- **IDEs**: VS Code, IntelliJ
 
-**Software Engineer (Lexington, SC, August 2017 – April 2019)**  
-Led a team to convert legacy COBOL programs and databases from VMS/VAX to Unix and Oracle environments.
+### Methodologies
 
-- Streamlined project workflows, significantly reducing the timeline for legacy system updates.
-- Developed automated testing processes, enhancing accuracy and efficiency.
-
-### Colonial Life and Accident/UNUM
-
-**Software Engineer (Columbia, SC, January 2013 – December 2016)**  
-Developed and maintained mainframe applications to support claims processing and related operations.
-
-- Collaborated across departments to deliver reliable and scalable applications in a fast-paced environment.
-- Maintained critical systems, ensuring uptime and operational consistency.
+Agile/SCRUM, Waterfall, TDD (Test-Driven Development)
 
 ---
 
-## Volunteer Experience
+## 💼 Work Experience  
 
-### Code2College
+### Duck Creek Technologies (Remote)
 
-**Volunteer Instructor (Remote, September 2024 – Present)**  
-Teach weekly coding and STEM workshops to high school students, supporting diversity in tech and empowering students with foundational programming skills.
+**Software Configurator**  
+*April 2019 – December 2022*  
+Played a pivotal role as a Software Configurator, contributing to the design, development, and configuration of robust solutions within the Duck Creek technology platform.
+
+- Designed, developed, and configured solutions within Duck Creek’s platform, specializing in Policy, and Billing configurations.
+- Collaborated closely with cross-functional teams to translate business requirements into actionable configuration settings. Ensured the alignment of configurations with industry’s best practices and client-specific needs.
+- Spearheaded the design and implementation of complex system configurations, optimizing efficiency and minimizing manual interventions. Played a key role in enhancing the overall performance and scalability of the configured solutions.
+- Proactively addressed design and code challenges, identified optimization opportunities, and executed refactoring strategies for enhanced scalability and reduction of technical debt.
+- Worked in adherence to Agile methodologies, actively participating in all phases of the project lifecycle, from development and testing to deployment. Contributed to continuous improvement initiatives within the Agile framework.
+- Engaged in knowledge-sharing activities within the team, ensuring that colleagues were well-versed in the latest configuration techniques and best practices.
+- Engaged with a diverse resource group, actively contributing to the production of a monthly newsletter
+
+### TekSystems - Contractor (Lexington, SC)
+
+**Software Test Engineer**  
+*August 2017 – April 2019*  
+
+- Oversaw the conversion of COBOL programs from VMS/VAX to Unix and Oracle, streamlining project timelines and processes.
+- Developed Oracle stored procedures, improved testing procedures, and enhanced Unix documentation to support conversion.
+
+### Colonial Life and Accident/UNUM (Columbia, SC)  
+**Software Engineer**  
+*January 2013 – December 2016*  
+
+- Contributed to mainframe application development within the Claims department, ensuring seamless claims processing workflows.
+- Developed and maintained complex programs using COBOL, JCL, and DB2, providing critical support for claims adjudication.
+
+---
+
+## 🌐 Volunteer Experience  
+
+### Code2College (Remote)  
+**Volunteer Instructor**  
+*September 2024 – Present*  
+
+- Led bi-weekly sessions to teach introductory programming concepts to high school students, covering Python, Git, basic software testing, and agile methodologies.
+- Instructed students in version control best practices using Git and guided them through project management using Jira, fostering industry-relevant skills in source control and ticket tracking.
+- Mentored students through the development of individual projects, such as building a Python-based Chat Bot, encouraging hands-on learning and problem-solving skills.
+- Facilitated collaboration through Miro and peer programming exercises, promoting teamwork, critical thinking, and project-based learning in a supportive environment.
+- Provided structured feedback and encouraged students’ growth in technical communication, helping them prepare for technical internship opportunities and entry-level roles.
 
 ---
 
-## Education
+## 🎓 Education  
 
-### Midlands Technical College
+**Midlands Technical College**  
+- Full Stack Web Developer Engineer Certificate – *September 2023 – May 2024*  
+- Front-End Web Developer with PHP Certificate – *June 2017 – August 2017*  
+- Growing Resources for Information Technology Program – *August 2012 – December 2012*  
 
-- **Full Stack Web Developer Engineer Certificate** (September 2023 – May 2024): Completed a 28-week intensive program covering HTML, CSS, JavaScript, Java, databases, Agile/Scrum, and a capstone project.
-- **Front-End Web Developer with PHP Certificate** (June 2017 – August 2017)
-- **Growing Resources for Information Technology Program** (August 2012 – December 2012): Focused on COBOL, SQL, HTML, CSS, JCL, and Java.
-
-### North Carolina State University
-
-- **B.S. in Animal Science** (May 2000)
+**North Carolina State University**  
+- B.S. in Animal Science – *May 2000*
 
 ---
 
-## Cover Letter
+## 📊 GitHub Stats  
 
-Hello,
-
-I’m Marcia Merritt, a software engineer with over 12 years of experience and a solid foundation in both modern and legacy technologies. My background spans a range of programming languages, including Java, JavaScript, Jest, TypeScript, HTML, CSS, SQL, and XML, as well as extensive experience in mainframe systems and COBOL. I’m also skilled in frameworks like React and tools such as Git, Docker, and VS Code.
-
-Recently, I completed Midlands Tech’s Full Stack Software Engineering certificate, which deepened my expertise in modern web technologies and fueled my passion for building efficient, user-friendly applications. I’m currently expanding my back-end knowledge through RS School's Node.js course and look forward to starting their JavaScript Front-End course in October.
-
-In addition to my technical skills, my volunteer work as a coding instructor at Code2College, my service at an animal shelter, and my experience as a sports official have all honed my adaptability, leadership, and commitment to inclusivity and effective communication in collaborative environments.
-
-Outside of work, I enjoy a variety of activities—from caring for my pets to playing sports, working out, and practicing Bikram Yoga. These pursuits help me maintain balance and foster creativity, which I bring into my professional work.
-
-I’m excited about the opportunity to leverage my unique combination of technical skills and collaborative mindset on projects that make a meaningful impact.
-
-Best regards,  
-**Marcia T. Merritt**
-
----
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marciatmerritt&layout=compact&theme=vision-friendly-dark)
